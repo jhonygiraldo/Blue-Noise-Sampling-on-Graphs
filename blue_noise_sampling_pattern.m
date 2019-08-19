@@ -9,7 +9,7 @@ function bn_pattern = blue_noise_sampling_pattern(G,geodesic_distances,amount_no
 % G: graph structure, same structure as GSP toolbox,
 % geodesic_distances: matrix of all geodesic distances
 % amount_nodes: amount of sampled nodes
-% is_logical: 1 if the G is a logical graph, 0 otherwise
+% is_logical: 1 if G is a logical graph, 0 otherwise
 % iterations: maximun number of iterations
 % 
 % Output
