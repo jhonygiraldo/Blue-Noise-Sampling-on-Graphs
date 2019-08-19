@@ -21,3 +21,7 @@ If you find blue noise sampling on graphs useful in your research, please consid
   ISSN={2373-776X}, 
   month={Sep.},}
 ```
+
+## Requirements: software
+
+The Graph Signal Processing Toolbox is required to run the script *Demo.m*. [GSP Toolbox](https://epfl-lts2.github.io/gspbox-html/)
