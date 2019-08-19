@@ -8,7 +8,7 @@ By Alejandro Parada-Mayorga, Daniel L Lau, Jhony H Giraldo, Gonzalo R Arce
 If you find blue noise sampling on graphs useful in your research, please consider citing:
 
 ```
-@ARTICLE{Parada2019Blue,
+@ARTICLE{parada2019blue,
   author={A. {Parada-Mayorga} and D. L. {Lau} and J. H. {Giraldo} and G. R. {Arce}}, 
   journal={IEEE Transactions on Signal and Information Processing over Networks}, 
   title={Blue-Noise Sampling on Graphs}, 
